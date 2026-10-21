@@ -1,16 +1,43 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# Hey, I'm Manya Rao! 👋
 
-Currently, two official plugins are available:
+### AI & Data Science Engineering Student | Aspiring Developer
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I'm passionate about Artificial Intelligence, Data Science, and building technology that solves real-world problems.
 
-## React Compiler
+## 🚀 Featured Projects
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🧠 Samanyav AI
+An AI-powered railway block-planning prototype focused on maximizing asset availability for train operations on Indian Railways.
 
-## Expanding the Oxlint configuration
+### 🛡️ UPI Fraud Shield
+A project focused on UPI payment security and identifying potentially fraudulent transactions.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### 🎓 Student Management System
+A database management project built using SQL, DBMS concepts, and a frontend interface to manage student records.
+
+## 💻 Technologies & Skills
+
+- Python
+- C and Java
+- HTML, CSS, JavaScript
+- React
+- SQL and DBMS
+- Git and GitHub
+- Artificial Intelligence and Data Science
+
+## 🌟 Interests
+
+- Artificial Intelligence
+- Data Analytics
+- Web Development
+- Cybersecurity
+- Problem Solving and Hackathons
+
+## 📫 Connect With Me
+
+- GitHub: [manya-rao](https://github.com/manya-rao)
+
+---
+
+*Learning, building, and improving one project at a time.* ✨
